@@ -1,0 +1,13 @@
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.exe
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.deps.json
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.runtimeconfig.json
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.runtimeconfig.dev.json
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.dll
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.pdb
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.csprojAssemblyReference.cache
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.AssemblyInfoInputs.cache
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.AssemblyInfo.cs
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.csproj.CoreCompileInputs.cache
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.dll
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.pdb
+C:\Users\kalle.favoryt\Documents\GitHub\kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.genruntimeconfig.cache
